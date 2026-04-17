@@ -24,7 +24,7 @@ You should have the following printed parts (see the `parts/` folder for .3mf fi
 
 >> Printed Parts
 
---
+---
 
 1. Launch Pad Core
 2. Launch Rod Adaptor
@@ -37,7 +37,7 @@ You should have the following printed parts (see the `parts/` folder for .3mf fi
 
 >> Hardware
 
---
+---
 1. [Estes 3/16" Two-Piece MAXI Launch Rod](https://estesrockets.com/products/3-16-two-piece-maxi-launch-rod)
 2. M3 Bolts (3x)
 3. M3 Nuts (3x)
