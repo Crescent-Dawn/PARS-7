@@ -1,4 +1,4 @@
-# // PARS-7: The Compact and Portable Rocket Launch Pad \\
+# / PARS-7: The Compact and Portable Rocket Launch Pad \
 
 Welcome to the **PARS-7**, a 3D printable rocket launch pad designed for compact portability and versatile launch angles. This project is perfect for model rocket enthusiasts who need a reliable launch pad for horsing around with rockets and taking them to places never thought possible!
 
