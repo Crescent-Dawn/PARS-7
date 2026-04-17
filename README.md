@@ -22,7 +22,7 @@ Here’s how to assemble your **PARS-7**:
 ### Step 1: Gather Parts
 You should have the following printed parts (see the `parts/` folder for .3mf files):
 
->> Printed Parts
+\>> Printed Parts
 
 ---
 
@@ -35,7 +35,7 @@ You should have the following printed parts (see the `parts/` folder for .3mf fi
 
 --
 
->> Hardware
+\>> Hardware
 
 ---
 1. [Estes 3/16" Two-Piece MAXI Launch Rod](https://estesrockets.com/products/3-16-two-piece-maxi-launch-rod)
