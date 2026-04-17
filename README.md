@@ -6,7 +6,7 @@ Welcome to the **PARS-7**, a 3D printable rocket launch pad designed for compact
 
 ## << Overview >>
 
-The **PARS-7** is a two-legged launch pad with a dual-pivot hinge system. This allows for both straight-up and angled launches, making it ideal for uneven terrain or backpack-friendly use.
+The **PARS-7** is a two-legged launch pad with a dual-pivot hinge system. This allows for both straight-up and angled launches, making it ideal for uneven terrain or unconventional flight paths.
 
 ### Key Features:
 - Compact folding design (fits on a backpack)
@@ -20,33 +20,49 @@ The **PARS-7** is a two-legged launch pad with a dual-pivot hinge system. This a
 Here’s how to assemble your **PARS-7**:
 
 ### Step 1: Gather Parts
-You should have the following printed parts (see the `parts/` folder for STL files):
+You should have the following printed parts (see the `parts/` folder for .3mf files):
 
-1. Left Leg
-2. Right Leg
-3. Hinge Assembly
-4. Base Plate
+>> Printed Parts
+
+--
+
+1. Launch Pad Core
+2. Launch Rod Adaptor
+3. Blast Plate Adaptor
+4. Static Launch Leg (2x)
+5. Dynamic Launch leg (Left and right)
+6. Launch Rod Retainer (2x)
+
+--
+
+>> Hardware
+
+--
+1. [Estes 3/16" Two-Piece MAXI Launch Rod](https://estesrockets.com/products/3-16-two-piece-maxi-launch-rod)
+2. M3 Bolts (3x)
+3. M3 Nuts (3x)
+4. [Estes Blast Plate](http://estesrockets.com/products/blast-deflector-plate?_pos=15&_fid=feef0d404&_ss=c)
 
 ---
 
-### Step 2: Assemble the Hinge
+### Step 2: Assembly
 ![Hinge Assembly](placeholder.gif)
 
-1. Insert the hinge pins into the left and right leg parts.
-2. Make sure the hinge is centered.
+1. Insert the Launch Rod Adaptor into the Launch Pad Core, securing it with an M3 nut and bolt
+2. Attatch the dynamic legs to the static legs, ensuring the chamfer faces outwards on the legs.
+3. Slide static leg dovetail into the launch pad core recievers.
+4. Slide blast plate into blast plate adaptor, then slide that over the launch rod.
+5. Slide launch rod into launch rod adaptor.
+6. adjust CoM
+7. Go get some icecream and celebrate your new launch pad!!
 
 ---
 
-### Step 3: Attach the Base Plate
-![Base Plate](placeholder.gif)
+### Step 3: Storage and Portability Mode
+![Demo Gif](placeholder.gif)
 
 1. Align the base plate with the bottom of the legs.
 2. Use M3 bolts (if included) to secure the base plate.
-
----
-
-### Step 4: Test the Hinge
-Give the hinge a few test movements to ensure it’s free and stable.
 
 ---
 
