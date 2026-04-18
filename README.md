@@ -6,7 +6,7 @@ A portable, adjustable-angle model rocket launch pad. 3D printed. Lightweight. P
 
 `>> STATUS: OPERATIONAL`
 
-![Hero photo placeholder — replace with photos/hero.jpg](photos/hero.jpg)
+![](photos/ScreenRecording2026-04-17221241-ezgif.com-speed.gif)
 
 ---
 
