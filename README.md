@@ -81,4 +81,4 @@ This is the first public release. If you print it, break it, improve it, or just
 
 ---
 
-Designed in Fusion 360.
+Designed with redbull and solder fumes.
